@@ -63,11 +63,10 @@ Aprendiz de desarrollo de software con bases sólidas en programación, maquetac
 
 ## 📂 Listado de repositorios
 
-> Reemplaza los enlaces y descripciones con tus proyectos reales.
 
 | Repositorio | Descripción | Tecnologías |
 |-------------|-------------|-------------|
-| [🔗 Portafolio]([https://github.com/TU_USUARIO/nombre-repositorio-2](https://github.com/emanuelmonta/proyectoFinal.git)) | portafolio con mis trabajos en diseño web| HTML, CSS |
+| [🔗 Portafolio](https://github.com/emanuelmonta/proyectoFinal.git) | portafolio con mis trabajos en diseño web| HTML, CSS |
 
 ---
 
